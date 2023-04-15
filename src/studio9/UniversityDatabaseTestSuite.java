@@ -11,4 +11,7 @@ import studio9.tests.UniversityDatabaseTest;
 @RunWith(Suite.class)
 @Suite.SuiteClasses({ UniversityDatabaseTest.class })
 public class UniversityDatabaseTestSuite {
+	
+	
+	
 }
